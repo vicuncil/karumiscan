@@ -20,6 +20,7 @@ git clone https://github.com/vicuncil/karumiscan
 bash karumi.sh
 or
 ./karumi.sh
+
 -------------------------------------------------
 Usage:
 bash karumi.sh <ip addres>
