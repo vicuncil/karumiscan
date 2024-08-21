@@ -23,6 +23,7 @@ or
 
 -------------------------------------------------
 Usage:
-bash karumi.sh <ip addres>
+      bash karumi.sh ip addres
+      bash karumi.sh email@example.com
 
 
